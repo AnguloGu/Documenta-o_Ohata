@@ -1,3 +1,4 @@
+package Calculadora;
 /**
  * <h1>Calculadora</h1>
  * <p>Esta classe oferece operações matemáticas básicas como soma, subtração,
@@ -100,3 +101,4 @@ public class Calculadora {
         };
     }
 }
+
